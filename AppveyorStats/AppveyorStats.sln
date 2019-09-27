@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppveyorStats", "AppveyorStats.csproj", "{67530C87-B195-45BF-B0B6-6F563B7C1836}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamCityStats", "..\TeamCityStats\TeamCityStats\TeamCityStats.csproj", "{B82EC24E-8D77-4678-B4C7-C4B7EED7113A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{67530C87-B195-45BF-B0B6-6F563B7C1836}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67530C87-B195-45BF-B0B6-6F563B7C1836}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67530C87-B195-45BF-B0B6-6F563B7C1836}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B82EC24E-8D77-4678-B4C7-C4B7EED7113A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82EC24E-8D77-4678-B4C7-C4B7EED7113A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82EC24E-8D77-4678-B4C7-C4B7EED7113A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82EC24E-8D77-4678-B4C7-C4B7EED7113A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
