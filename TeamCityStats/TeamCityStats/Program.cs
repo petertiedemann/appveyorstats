@@ -32,7 +32,7 @@ namespace TeamCityStats
     {
         static void Main(string[] args)
         {
-            string token = "eyJ0eXAiOiAiVENWMiJ9.bnZ3V3VKYy1VZktJRndjS0RqM1pvR3NaUUFN.NzUzNzk1NmMtZTdjYy00N2VhLTk4YjYtNzU4NmMzNjNhODBl";
+            string token = args[0];
 
             var client = new RestClient("http://build.configit.com/");
 
